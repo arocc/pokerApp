@@ -19,7 +19,7 @@ class TabConfig extends React.Component {
      * the settings selected by the user.
      */
     microsoftTeams.settings.registerOnSaveHandler((saveEvent) => {
-      const baseUrl = `{baseUrl}/index.html#/tab`;
+      const baseUrl = `https://pokerappfea3e5b0.z13.web.core.windows.net`
       microsoftTeams.settings.setSettings({
         suggestedDisplayName: "Poker App",
         entityId: "Play Games",

@@ -1,0 +1,17 @@
+#frame {
+    position:absolute;
+}
+
+#wrapper > Button {
+    opacity: 0.3;
+    position:absolute;
+    float: right;
+    right:10px;
+    left:50px;
+    top:120px;
+    bottom:35px;
+    transition: 0.5s;
+  }
+  #wrapper > Button {
+    opacity: 1;
+  }  

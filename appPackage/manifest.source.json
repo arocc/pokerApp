@@ -58,7 +58,7 @@
         "identity",
         "messageTeamMembers"
     ],
-    "validDomains": ["https://www.pokernow.club/start-game"],
+    "validDomains": ["pokernow.club/*", "pokernow.club/games/*", "codenames.game/*, skribbl.io/*, skribbl.io/?4PzMu9r3dPd4"],
     "webApplicationInfo": {
         "id": "{appClientId}",
         "resource": "{webApplicationInfoResource}"
